@@ -1,0 +1,22 @@
+{
+	"name": "clevo-keyboard",
+	"version": "0.0.1",
+	"description": "Full application for Clevo Backlight adjustment",
+	"main": "main.js",
+	"author": {
+		"name": "Nick Mello",
+		"email": "contact@nicholasmello.com",
+		"url": "https://www.nicholasmello.com"
+	},
+	"scripts": {
+		"start": "electron ."
+	},
+	"homepage": "https://github.com/xonmello/clevo-keyboard#readme",
+	"bugs": "https://github.com/xonmello/clevo-keyboard/issues",
+	"repository": "github:xonmello/clevo-keyboard",
+	"email": "contact@nicholasmello.com",
+	"license": "GPL-3.0-or-later",
+	"dependencies": {
+		"electron": "15.2.0"
+	}
+}
